@@ -1,0 +1,6 @@
+{
+  "name": "Nigerian AI Predictor",
+  "description": "Система прогнозов для популярных игр (Aviator, Mines и др.), адаптированная для Нигерии с валютой Naira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
